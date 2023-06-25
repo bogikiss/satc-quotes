@@ -1,0 +1,52 @@
+body {
+  background-color: #5f354f;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Trajan Pro', sans-serif;
+  color: #2c1925;
+  text-shadow: 1px 7px 13px #c8cf84;
+  padding-right: 200px;
+  padding-top: 100px
+}
+
+#quote-box {
+  border: 5px solid;
+  border-color: #2b1823;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: #c2cf84;
+  border: 0.5rem outset pink;
+  border-radius: 15px;
+  font-size: 25px;
+  font-family: 'Gentium Basic', sans-serif;
+}
+
+#author {
+  text-align: right;
+  font-size: 18px;
+}
+
+#new-quote {
+  height: 40px;
+  border: 0.3rem outset pink;
+  border-radius: 5px;
+  color: black;
+  background-color: #a6b94c;
+  font-size: 15px;
+  padding: 5px 50px 5px 50px;
+  font-family: 'Gentium Book Basic', sans-serif;
+}
+
+#tweet-quote {
+  height: 40px;
+  border: 0.3rem outset pink;
+  border-radius: 5px;
+  color: black;
+  background-color: #a6b94c;
+  font-size: 15px;
+  padding: 5px 65px 5px 64px;
+  font-family: 'Gentium Book Basic', sans-serif;
+}
